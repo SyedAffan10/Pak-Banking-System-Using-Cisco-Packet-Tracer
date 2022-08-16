@@ -1,0 +1,8 @@
+For Seen Router Configuration: >en
+				 #show running-config
+
+For Seen Switch Configuration: >en
+				 #show port-security
+
+For Seen IP Router Configuration: >en
+				 #show ip route
